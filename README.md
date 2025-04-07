@@ -67,7 +67,5 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
 
 [FastAPI Notes Backend](https://github.com/bisher-muhammed/fastapi-notes)
 
-## 📄 License
 
-This project is open-source and available under the MIT License.
 
